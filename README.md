@@ -11,12 +11,11 @@
 ###
 
 🤖 **Passionate about Machine Learning, Computer Vision, and Robotics**  
-🎯 **Experienced in building line-following, maze-solving, and intelligent vision-based robots**  
 💻 **Skilled in:** Python | C++ | ROS | OpenCV | MicroPython | Linux (Ubuntu)  
-🔧 **Hands-on with:** Raspberry Pi, Arduino, ESP32, DRV8833, VL53L0X, and other sensors  
-🧩 **Currently exploring:** AI/ML, MLOps, advanced Robotics Control (PID, SLAM), and autonomous systems  
-💬 **Ask me about:** robotics automation, AI integration, or microcontroller projects  
-🎯 **Goal:** To create robots that learn, adapt, and assist humans autonomously
+🔧 **Hands-on with:** Raspberry Pi, Arduino, ESP32, and STM32  
+🧩 **Currently exploring:** AI/ML, ROS, advanced Robotics Control (PID, SLAM), and autonomous systems  
+💬 **Let's talk about:** Robotics, AI projects, or embedded systems 
+🎯 **Goal:** Create autonomous robots that solve real-world problems
 
 ###
 
