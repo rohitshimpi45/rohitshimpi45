@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🔭 Current Projects<br>Smart Maze-Solving Robot<br>AI Line Follower (PID + Computer Vision)<br>Object Detection for Robotics Navigation<br><br>🌱 Learning<br><br>ROS2<br>OpenCV<br>Deep Learning (PyTorch / TensorFlow)<br><br>💬 Interests<br>Robotics & Automation<br>Computer Vision<br>Embedded Systems<br><br>📬 Contact<br>Email: rohitshimpi212004@gmail.com<br>LinkedIn: https://linkedin.com/in/rohitshimpi<br>Instagram: https://instagram.com/rohit_shimpi45</p>
+🤖 **Passionate about Machine Learning, Computer Vision, and Robotics**  
+🎯 **Experienced in building line-following, maze-solving, and intelligent vision-based robots**  
+💻 **Skilled in:** Python | C++ | ROS | OpenCV | MicroPython | Linux (Ubuntu)  
+🔧 **Hands-on with:** Raspberry Pi, Arduino, ESP32, DRV8833, VL53L0X, and other sensors  
+🧩 **Currently exploring:** AI/ML, MLOps, advanced Robotics Control (PID, SLAM), and autonomous systems  
+💬 **Ask me about:** robotics automation, AI integration, or microcontroller projects  
+🎯 **Goal:** To create robots that learn, adapt, and assist humans autonomously
 
 ###
 
