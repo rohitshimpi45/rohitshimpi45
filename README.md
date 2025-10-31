@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am learning Machine Learning, Computer Vision, and Robotics.<br>I like building small robots and testing AI projects with Python and C++.</p>
+<p align="left">Hi! I'm Rohit, a robotics & AI enthusiast exploring Machine Learning and Computer Vision.<br>I experiment with robotics and AI, crafting compact robotic systems and intelligent algorithms with Python and C++.</p>
 
 ###
 
